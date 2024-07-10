@@ -1,7 +1,5 @@
-# Azure-Data-Engineering-projects
+#                           End-to-End Azure Data Engineering Project
 ![Data Engineering Project](de.png)
-
-# End-to-End Azure Data Engineering Project
 
 ## Objective
 The primary objective of this project is to demonstrate the implementation of an end-to-end data engineering pipeline using Azure services. The project aims to transform raw data from an on-premise SQL Server database into insightful visualizations in Power BI, ensuring secure and efficient data handling and processing throughout the pipeline.
